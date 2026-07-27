@@ -1,0 +1,6 @@
+{
+  "name": "SecureShare",
+  "description": "Enterprise-grade E2EE file sharing platform with AES-256 encryption, RSA key exchange, secure expiration links, password protection, audit logs, and granular access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
